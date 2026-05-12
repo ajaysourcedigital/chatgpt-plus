@@ -17,6 +17,7 @@ ChatGPT-Plus 是使用官方 ChatGPT API 的应用程序。
 [简体中文](./README.md) | [English](./README_en.md)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zhpd/chatgpt-plus)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=zhpd/chatgpt-plus&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zhpd/chatgpt-plus)
 
@@ -244,6 +245,7 @@ npm run dev
 #### Vercel环境变量
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zhpd/chatgpt-plus)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=zhpd/chatgpt-plus&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 ### 手动打包
 
